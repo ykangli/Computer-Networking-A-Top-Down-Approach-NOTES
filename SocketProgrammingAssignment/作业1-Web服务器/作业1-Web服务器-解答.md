@@ -81,7 +81,7 @@ serverSocket.close()
 
 **服务器端：**
 
-在一台主机上的同一目录下放入`WebServer.py`和`HelloWorld.html`两个文件，并运行`WebServer.py`，作为服务器。
+在一台主机/手机浏览器上的同一目录下放入`WebServer.py`和`HelloWorld.html`两个文件，并运行`WebServer.py`，作为服务器。
 
 ![](image/WebServer.png)
 
